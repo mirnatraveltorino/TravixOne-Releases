@@ -1,10 +1,10 @@
 {
-  "version": "1.1.3-test",
-  "releaseNotes": "Initial public release package for Travix One v1.1.3-test.",
+  "version": "1.1.4-test",
+  "releaseNotes": "Travix One v1.1.4-test - macOS updater end-to-end test release.",
   "publishedAt": "2026-08-18T00:00:00Z",
   "macArm64": {
-    "url": "https://github.com/mirnatraveltorino/TravixOne-Releases/releases/download/v1.1.3-test/TravixOne-Mac-v1.1.3-test-final.zip",
-    "sha256": "cb2edd544b3114ce663d9b7b020cfe7be6c81e16cf1e3bdd3e2f0f48264aedd6",
+    "url": "https://github.com/mirnatraveltorino/TravixOne-Releases/releases/download/v1.1.4-test/TravixOne-Mac-Portable.zip",
+    "sha256": "6616459cc1a8976d71d88d435f6c604bf51dd72116ae0f47d6c8087cc6669267",
     "signaturePublicKey": null,
     "signature": null
   },
