@@ -8,10 +8,5 @@
     "signaturePublicKey": null,
     "signature": null
   },
-  "windowsX64": {
-    "url": "https://github.com/mirnatraveltorino/TravixOne-Releases/releases/download/v1.1.3-test/TravixOne-Windows-v1.1.3-test-2026-08-18-1300.zip",
-    "sha256": "d79093dc1c962d89ce7c38f8c93a3bda8e27151c0246e84de7b666777affe910",
-    "signaturePublicKey": null,
-    "signature": null
-  }
+  "windowsX64": null
 }
